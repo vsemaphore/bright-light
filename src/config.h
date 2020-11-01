@@ -3,7 +3,7 @@
 #define BLYNK_PRINT Serial
 #define BLYNK_USE_DIRECT_CONNECT
 
-#define BL_EEPROM_SIZE (sizeof(int)*2)
+#define BL_EEPROM_SIZE (sizeof(int)*4)
 #define BL_PWM_FREQ 500
 #define BL_PWM_RES 15
 
